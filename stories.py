@@ -36,7 +36,17 @@ one_more_game = """
     - My {} hurts. The only way it'll feel better is if I {} these cyborgs and save (the)
     {}. 
 
-    - 
+    - {} also plays {} Hut so if you want me to be successful in life, please give me {} 
+    minutes to finish the {} level.
+
+    - Mrs. {}, my {} teacher, said that video games make you smart. She plays {} Assault, so
+    she knows.
+
+    - There's nothing else to do! {} isn't here to play with, Grandpa {} went to bed, and it's {}
+    outside.
+
+    - {}! If you let me play Night {}, I'll clean my room. Think about it.
+
 """
 
 dict_of_stories = {love_sonnet_18:
@@ -47,4 +57,9 @@ dict_of_stories = {love_sonnet_18:
                     the_magic_flute:
                     ['color', 'type of animal', 'location', 'type of building',
                      'adjective', 'musical instrument', 'number','noun', 'second type of animal',
-                     'food', 'musical instrument', 'room in castle']}
+                     'food', 'musical instrument', 'room in castle'],
+                    one_more_game: 
+                    ['noun', 'adjective', 'adjective', 'part of body', 'verb', 'a place', 'celebrity',
+                    'animal', 'number', 'adjective', 'last name', 'noun', 'type of food', 'person in room',
+                    'first name (male)', 'verb ending in -ing', 'exclamation', 'verb']
+                    }
